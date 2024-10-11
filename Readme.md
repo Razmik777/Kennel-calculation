@@ -33,3 +33,11 @@
 ## 8. Создать таблицы с иерархией из диаграммы в БД
 
 ![Task8](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task8.png)
+
+## 9. Заполнить низкоуровневые таблицы именами(животных), командами которые они выполняют и датами рождения.
+
+![Task9](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task9.png)
+
+![Task9](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task9.1.png)
+
+![Task9](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task9.2.png)

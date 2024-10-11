@@ -41,3 +41,7 @@
 ![Task9](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task9.1.png)
 
 ![Task9](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task9.2.png)
+
+## 10. Удалив из таблицы верблюдов, т.к. верблюдов решили перевезти в другой питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
+
+![Task10](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task10.png)

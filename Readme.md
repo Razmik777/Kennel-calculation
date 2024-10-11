@@ -8,3 +8,5 @@
 ![Task1](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task1.png)
 
 ## 2.Создать директорию, переместить файл туда.
+
+![Task2](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task2.png)

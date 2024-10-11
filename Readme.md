@@ -19,3 +19,5 @@
 ## 4. Установить и удалить deb-пакет с помощью dpkg
 
 ![Task4](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task4.png)
+
+## 5. Выложить [историю команд](https://github.com/Razmik777/Kennel-calculation/blob/main/commandsHistory.md) в терминале ubuntu

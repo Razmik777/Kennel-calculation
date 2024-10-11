@@ -13,7 +13,9 @@
 
 ## 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.
 
-![Task2](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task3.png)
-![Task2](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task3.1.png)
+![Task3](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task3.png)
+![Task3.1](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task3.1.png)
 
 ## 4. Установить и удалить deb-пакет с помощью dpkg
+
+![Task4](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task4.png)

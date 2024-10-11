@@ -26,6 +26,6 @@
 
 ![Task6](https://github.com/Razmik777/Kennel-calculation/blob/main/img/draw.png)
 
-## 6. В подключенном MySQL репозитории создать базу данных “Друзья человека”
+## 7. В подключенном MySQL репозитории создать базу данных “Друзья человека”
 
 ![Task7](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task7.png)

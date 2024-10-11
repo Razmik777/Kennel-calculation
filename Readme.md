@@ -29,3 +29,7 @@
 ## 7. В подключенном MySQL репозитории создать базу данных “Друзья человека”
 
 ![Task7](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task7.png)
+
+## 8. Создать таблицы с иерархией из диаграммы в БД
+
+![Task8](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task8.png)

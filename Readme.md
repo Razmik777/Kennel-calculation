@@ -42,6 +42,12 @@
 
 ![Task9](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task9.2.png)
 
-## 10. Удалив из таблицы верблюдов, т.к. верблюдов решили перевезти в другой питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
+## 10. Удалить из таблицы верблюдов, т.к. верблюдов решили перевезти в другой питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
 
 ![Task10](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task10.png)
+
+## 11. Создать новую таблицу “молодые животные” в которую попадут все животные старше 1 года, но младше 3 лет и в отдельном столбце с точностью до месяца подсчитать возраст животных в новой таблице
+
+![Task11](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task11.png)
+
+![Task11](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task11.1.png)

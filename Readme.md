@@ -15,3 +15,5 @@
 
 ![Task2](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task3.png)
 ![Task2](https://github.com/Razmik777/Kennel-calculation/blob/main/img/Task3.1.png)
+
+## 4. Установить и удалить deb-пакет с помощью dpkg

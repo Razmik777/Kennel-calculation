@@ -1,6 +1,7 @@
 # Task 1
 
 cat > home_animals.txt
+
 собака  
 
 кошка 
@@ -8,6 +9,7 @@ cat > home_animals.txt
 хомяк
 
 cat > pack_animals.txt
+
 Лошадь 
 
 Осел
@@ -35,3 +37,19 @@ ls -l animals
 
 # Task 3
 
+sudo wget https://dev.mysql.com/get/mysql-apt-config_0.8.23-1_all.deb
+
+sudo apt update
+
+sudo apt install mysql-server
+
+sudo apt install mysql-server mysql-client
+
+
+# Task 4
+
+sudo wget https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.13\~3-0\~ubuntu-jammy_amd64.deb
+
+sudo dpkg -i docker-ce-cli_20.10.13~3-0~ubuntu-jammy_amd64.deb
+
+sudo dpkg -r docker-ce-cli
